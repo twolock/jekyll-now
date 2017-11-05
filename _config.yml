@@ -6,7 +6,7 @@
 name: Tim Wolock
 
 # Short bio or description (displayed in the header)
-description: Quantitative research based in public health
+description: Quantitative research based in Seattle
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -21,9 +21,9 @@ footer-links:
   email: tim.wolock@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: twolock
   instagram:
-  linkedin: https://www.linkedin.com/in/tim-wolock-59ba515a/
+  linkedin: tim-wolock-59ba515a
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
