@@ -49,6 +49,8 @@ url: https://twolock.github.io
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+theme: minimal
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
@@ -84,6 +86,4 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-theme: minimal
 
